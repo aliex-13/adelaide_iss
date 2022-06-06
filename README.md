@@ -23,7 +23,7 @@ This tool will check for any sort of bad weather - Clouds, Overcast, Rain in a f
 
 ## Things you will need to do
 
-- You will need to generate an API key at https://weather.visualcrossing.com and replace <GENERATE KEY> in the "check_iss_clean.py" script.
+- You will need to generate an API key at https://weather.visualcrossing.com and replace "<GENERATE KEY>" in the "check_iss_clean.py" script.
 - This will allow you to get relevant information for the script to run and store XML/JSON files which have information.
  
 
