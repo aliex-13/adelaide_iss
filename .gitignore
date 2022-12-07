@@ -1,3 +1,7 @@
+space_ExtraTests/*
+space_station/*
+tictactoe/*
 adelaide_iss.xml
 adelaide_weather.json
+.DS_Store
 .gitignore
